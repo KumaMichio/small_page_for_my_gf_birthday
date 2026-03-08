@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Valentine's Day Interactive Page
 
 A fun, interactive Valentine's Day page where the "Yes" button grows bigger every time they click "No" — with falling hearts, cute GIFs, music, and playful toast messages. Built with pure HTML, CSS, and JavaScript.
@@ -105,3 +106,6 @@ v-day/
 ## License
 
 Do whatever you want with it. Make someone smile.
+=======
+# small_page_for_my_gf_birthday
+>>>>>>> 58bf04e7e3b02a6e53ea3289c5863d813955409a
